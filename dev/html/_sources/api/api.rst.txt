@@ -1,0 +1,22 @@
+.. AUTO-GENERATED FILE -- DO NOT EDIT!
+
+API reference
+=============
+
+.. toctree::
+   :maxdepth: 1
+
+   pysarpro
+
+   pysarpro.data
+
+   pysarpro.io
+
+   pysarpro.util
+
+----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   ../license

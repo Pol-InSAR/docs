@@ -1,0 +1,55 @@
+.. AUTO-GENERATED FILE -- DO NOT EDIT!
+
+:mod:`pysarpro.data`
+====================
+
+.. automodule:: pysarpro.data
+
+.. currentmodule:: pysarpro.data
+
+.. autosummary::
+   :nosignatures:
+
+   pysarpro.data.astronaut
+   pysarpro.data.binary_blobs
+   pysarpro.data.camera
+   pysarpro.data.download_all
+   pysarpro.data.file_hash
+
+
+
+------------
+
+
+.. autofunction:: pysarpro.data.astronaut
+
+    .. minigallery:: pysarpro.data.astronaut
+
+------------
+
+
+.. autofunction:: pysarpro.data.binary_blobs
+
+    .. minigallery:: pysarpro.data.binary_blobs
+
+------------
+
+
+.. autofunction:: pysarpro.data.camera
+
+    .. minigallery:: pysarpro.data.camera
+
+------------
+
+
+.. autofunction:: pysarpro.data.download_all
+
+    .. minigallery:: pysarpro.data.download_all
+
+------------
+
+
+.. autofunction:: pysarpro.data.file_hash
+
+    .. minigallery:: pysarpro.data.file_hash
+

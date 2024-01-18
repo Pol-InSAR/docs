@@ -1,0 +1,187 @@
+.. AUTO-GENERATED FILE -- DO NOT EDIT!
+
+:mod:`pysarpro.io`
+==================
+
+.. automodule:: pysarpro.io
+
+.. currentmodule:: pysarpro.io
+
+.. autosummary::
+   :nosignatures:
+
+   pysarpro.io.call_plugin
+   pysarpro.io.concatenate_images
+   pysarpro.io.find_available_plugins
+   pysarpro.io.imread
+   pysarpro.io.imread_collection
+   pysarpro.io.imread_collection_wrapper
+   pysarpro.io.imsave
+   pysarpro.io.imshow
+   pysarpro.io.imshow_collection
+   pysarpro.io.load_sift
+   pysarpro.io.load_surf
+   pysarpro.io.plugin_info
+   pysarpro.io.plugin_order
+   pysarpro.io.pop
+   pysarpro.io.push
+   pysarpro.io.reset_plugins
+   pysarpro.io.show
+   pysarpro.io.use_plugin
+
+   pysarpro.io.ImageCollection
+   pysarpro.io.MultiImage
+
+   pysarpro.io.collection
+   pysarpro.io.manage_plugins
+   pysarpro.io.sift
+   pysarpro.io.util
+
+------------
+
+
+.. autofunction:: pysarpro.io.call_plugin
+
+    .. minigallery:: pysarpro.io.call_plugin
+
+------------
+
+
+.. autofunction:: pysarpro.io.concatenate_images
+
+    .. minigallery:: pysarpro.io.concatenate_images
+
+------------
+
+
+.. autofunction:: pysarpro.io.find_available_plugins
+
+    .. minigallery:: pysarpro.io.find_available_plugins
+
+------------
+
+
+.. autofunction:: pysarpro.io.imread
+
+    .. minigallery:: pysarpro.io.imread
+
+------------
+
+
+.. autofunction:: pysarpro.io.imread_collection
+
+    .. minigallery:: pysarpro.io.imread_collection
+
+------------
+
+
+.. autofunction:: pysarpro.io.imread_collection_wrapper
+
+    .. minigallery:: pysarpro.io.imread_collection_wrapper
+
+------------
+
+
+.. autofunction:: pysarpro.io.imsave
+
+    .. minigallery:: pysarpro.io.imsave
+
+------------
+
+
+.. autofunction:: pysarpro.io.imshow
+
+    .. minigallery:: pysarpro.io.imshow
+
+------------
+
+
+.. autofunction:: pysarpro.io.imshow_collection
+
+    .. minigallery:: pysarpro.io.imshow_collection
+
+------------
+
+
+.. autofunction:: pysarpro.io.load_sift
+
+    .. minigallery:: pysarpro.io.load_sift
+
+------------
+
+
+.. autofunction:: pysarpro.io.load_surf
+
+    .. minigallery:: pysarpro.io.load_surf
+
+------------
+
+
+.. autofunction:: pysarpro.io.plugin_info
+
+    .. minigallery:: pysarpro.io.plugin_info
+
+------------
+
+
+.. autofunction:: pysarpro.io.plugin_order
+
+    .. minigallery:: pysarpro.io.plugin_order
+
+------------
+
+
+.. autofunction:: pysarpro.io.pop
+
+    .. minigallery:: pysarpro.io.pop
+
+------------
+
+
+.. autofunction:: pysarpro.io.push
+
+    .. minigallery:: pysarpro.io.push
+
+------------
+
+
+.. autofunction:: pysarpro.io.reset_plugins
+
+    .. minigallery:: pysarpro.io.reset_plugins
+
+------------
+
+
+.. autofunction:: pysarpro.io.show
+
+    .. minigallery:: pysarpro.io.show
+
+------------
+
+
+.. autofunction:: pysarpro.io.use_plugin
+
+    .. minigallery:: pysarpro.io.use_plugin
+
+
+.. autoclass:: ImageCollection
+  :members:
+  :inherited-members:
+  :undoc-members:
+  :show-inheritance:
+
+  .. automethod:: __init__
+
+    .. minigallery:: pysarpro.io.ImageCollection
+
+
+.. autoclass:: MultiImage
+  :members:
+  :inherited-members:
+  :undoc-members:
+  :show-inheritance:
+
+  .. automethod:: __init__
+
+    .. minigallery:: pysarpro.io.MultiImage
+

@@ -1,0 +1,183 @@
+.. AUTO-GENERATED FILE -- DO NOT EDIT!
+
+:mod:`pysarpro.util`
+====================
+
+.. automodule:: pysarpro.util
+
+.. currentmodule:: pysarpro.util
+
+.. autosummary::
+   :nosignatures:
+
+   pysarpro.util.apply_parallel
+   pysarpro.util.compare_images
+   pysarpro.util.crop
+   pysarpro.util.dtype_limits
+   pysarpro.util.img_as_bool
+   pysarpro.util.img_as_float
+   pysarpro.util.img_as_float32
+   pysarpro.util.img_as_float64
+   pysarpro.util.img_as_int
+   pysarpro.util.img_as_ubyte
+   pysarpro.util.img_as_uint
+   pysarpro.util.invert
+   pysarpro.util.label_points
+   pysarpro.util.map_array
+   pysarpro.util.random_noise
+   pysarpro.util.regular_grid
+   pysarpro.util.regular_seeds
+   pysarpro.util.slice_along_axes
+   pysarpro.util.unique_rows
+   pysarpro.util.view_as_blocks
+   pysarpro.util.view_as_windows
+
+
+
+------------
+
+
+.. autofunction:: pysarpro.util.apply_parallel
+
+    .. minigallery:: pysarpro.util.apply_parallel
+
+------------
+
+
+.. autofunction:: pysarpro.util.compare_images
+
+    .. minigallery:: pysarpro.util.compare_images
+
+------------
+
+
+.. autofunction:: pysarpro.util.crop
+
+    .. minigallery:: pysarpro.util.crop
+
+------------
+
+
+.. autofunction:: pysarpro.util.dtype_limits
+
+    .. minigallery:: pysarpro.util.dtype_limits
+
+------------
+
+
+.. autofunction:: pysarpro.util.img_as_bool
+
+    .. minigallery:: pysarpro.util.img_as_bool
+
+------------
+
+
+.. autofunction:: pysarpro.util.img_as_float
+
+    .. minigallery:: pysarpro.util.img_as_float
+
+------------
+
+
+.. autofunction:: pysarpro.util.img_as_float32
+
+    .. minigallery:: pysarpro.util.img_as_float32
+
+------------
+
+
+.. autofunction:: pysarpro.util.img_as_float64
+
+    .. minigallery:: pysarpro.util.img_as_float64
+
+------------
+
+
+.. autofunction:: pysarpro.util.img_as_int
+
+    .. minigallery:: pysarpro.util.img_as_int
+
+------------
+
+
+.. autofunction:: pysarpro.util.img_as_ubyte
+
+    .. minigallery:: pysarpro.util.img_as_ubyte
+
+------------
+
+
+.. autofunction:: pysarpro.util.img_as_uint
+
+    .. minigallery:: pysarpro.util.img_as_uint
+
+------------
+
+
+.. autofunction:: pysarpro.util.invert
+
+    .. minigallery:: pysarpro.util.invert
+
+------------
+
+
+.. autofunction:: pysarpro.util.label_points
+
+    .. minigallery:: pysarpro.util.label_points
+
+------------
+
+
+.. autofunction:: pysarpro.util.map_array
+
+    .. minigallery:: pysarpro.util.map_array
+
+------------
+
+
+.. autofunction:: pysarpro.util.random_noise
+
+    .. minigallery:: pysarpro.util.random_noise
+
+------------
+
+
+.. autofunction:: pysarpro.util.regular_grid
+
+    .. minigallery:: pysarpro.util.regular_grid
+
+------------
+
+
+.. autofunction:: pysarpro.util.regular_seeds
+
+    .. minigallery:: pysarpro.util.regular_seeds
+
+------------
+
+
+.. autofunction:: pysarpro.util.slice_along_axes
+
+    .. minigallery:: pysarpro.util.slice_along_axes
+
+------------
+
+
+.. autofunction:: pysarpro.util.unique_rows
+
+    .. minigallery:: pysarpro.util.unique_rows
+
+------------
+
+
+.. autofunction:: pysarpro.util.view_as_blocks
+
+    .. minigallery:: pysarpro.util.view_as_blocks
+
+------------
+
+
+.. autofunction:: pysarpro.util.view_as_windows
+
+    .. minigallery:: pysarpro.util.view_as_windows
+
