@@ -12,7 +12,6 @@
 
    pysarpro.data.astronaut
    pysarpro.data.binary_blobs
-   pysarpro.data.camera
    pysarpro.data.download_all
    pysarpro.data.file_hash
 
@@ -31,13 +30,6 @@
 .. autofunction:: pysarpro.data.binary_blobs
 
     .. minigallery:: pysarpro.data.binary_blobs
-
-------------
-
-
-.. autofunction:: pysarpro.data.camera
-
-    .. minigallery:: pysarpro.data.camera
 
 ------------
 

@@ -510,13 +510,10 @@ downloaded on demand. To make data available offline, use <a class="reference in
 <tr class="row-even"><td><p><a class="reference internal" href="#pysarpro.data.binary_blobs" title="pysarpro.data.binary_blobs"><code class="xref py py-obj docutils literal notranslate"><span class="pre">pysarpro.data.binary_blobs</span></code></a></p></td>
 <td><p>Generate synthetic binary image with several rounded blob-like objects.</p></td>
 </tr>
-<tr class="row-odd"><td><p><a class="reference internal" href="#pysarpro.data.camera" title="pysarpro.data.camera"><code class="xref py py-obj docutils literal notranslate"><span class="pre">pysarpro.data.camera</span></code></a></p></td>
-<td><p>Gray-level &quot;camera&quot; image.</p></td>
-</tr>
-<tr class="row-even"><td><p><a class="reference internal" href="#pysarpro.data.download_all" title="pysarpro.data.download_all"><code class="xref py py-obj docutils literal notranslate"><span class="pre">pysarpro.data.download_all</span></code></a></p></td>
+<tr class="row-odd"><td><p><a class="reference internal" href="#pysarpro.data.download_all" title="pysarpro.data.download_all"><code class="xref py py-obj docutils literal notranslate"><span class="pre">pysarpro.data.download_all</span></code></a></p></td>
 <td><p>Download all datasets for use with pysarpro offline.</p></td>
 </tr>
-<tr class="row-odd"><td><p><a class="reference internal" href="#pysarpro.data.file_hash" title="pysarpro.data.file_hash"><code class="xref py py-obj docutils literal notranslate"><span class="pre">pysarpro.data.file_hash</span></code></a></p></td>
+<tr class="row-even"><td><p><a class="reference internal" href="#pysarpro.data.file_hash" title="pysarpro.data.file_hash"><code class="xref py py-obj docutils literal notranslate"><span class="pre">pysarpro.data.file_hash</span></code></a></p></td>
 <td><p>Calculate the hash of a given file.</p></td>
 </tr>
 </tbody>
@@ -597,35 +594,6 @@ If <em class="xref py py-obj">rng</em> is an int, it is used to seed the generat
 <span class="gp">&gt;&gt;&gt; </span><span class="c1"># Blobs cover a smaller volume fraction of the image</span>
 <span class="gp">&gt;&gt;&gt; </span><span class="n">blobs</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">binary_blobs</span><span class="p">(</span><span class="n">length</span><span class="o">=</span><span class="mi">256</span><span class="p">,</span> <span class="n">volume_fraction</span><span class="o">=</span><span class="mf">0.3</span><span class="p">)</span>
 </pre></div>
-</div>
-</dd></dl>
-
-<hr class="docutils" />
-<dl class="py function">
-<dt class="sig sig-object py" id="pysarpro.data.camera">
-<span class="sig-prename descclassname"><span class="pre">pysarpro.data.</span></span><span class="sig-name descname"><span class="pre">camera</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference external" href="https://github.com/Pol-InSAR/pysarpro/blob/v0.1.0/pysarpro/data/_fetchers.py#L334-L356"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#pysarpro.data.camera" title="Link to this definition">#</a></dt>
-<dd><p>Gray-level “camera” image.</p>
-<p>Can be used for segmentation and denoising examples.</p>
-<dl class="field-list simple">
-<dt class="field-odd">Returns<span class="colon">:</span></dt>
-<dd class="field-odd"><dl class="simple">
-<dt><strong>camera</strong><span class="classifier">(512, 512) uint8 ndarray</span></dt><dd><p>Camera image.</p>
-</dd>
-</dl>
-</dd>
-</dl>
-<p class="rubric">Notes</p>
-<p>No copyright restrictions. CC0 by the photographer (Lav Varshney).</p>
-<div class="versionchanged">
-<p><span class="versionmodified changed">Changed in version 0.18: </span>This image was replaced due to copyright restrictions. For more
-information, please see <a class="reference internal" href="#raacc5f36ccc1-1" id="id1">[1]</a>.</p>
-</div>
-<p class="rubric">References</p>
-<div role="list" class="citation-list">
-<div class="citation" id="raacc5f36ccc1-1" role="doc-biblioentry">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id1">1</a><span class="fn-bracket">]</span></span>
-<p><a class="github reference external" href="https://github.com/Pol-InSAR/pysarpro/issues/3927">Pol-InSAR/pysarpro#3927</a></p>
-</div>
 </div>
 </dd></dl>
 
@@ -725,7 +693,6 @@ data directory by inspecting the variable <code class="docutils literal notransl
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pysarpro.data.astronaut"><code class="docutils literal notranslate"><span class="pre">astronaut()</span></code></a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pysarpro.data.binary_blobs"><code class="docutils literal notranslate"><span class="pre">binary_blobs()</span></code></a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pysarpro.data.camera"><code class="docutils literal notranslate"><span class="pre">camera()</span></code></a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pysarpro.data.download_all"><code class="docutils literal notranslate"><span class="pre">download_all()</span></code></a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pysarpro.data.file_hash"><code class="docutils literal notranslate"><span class="pre">file_hash()</span></code></a></li>
 </ul>
