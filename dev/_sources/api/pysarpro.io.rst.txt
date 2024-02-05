@@ -21,12 +21,15 @@
    pysarpro.io.imshow_collection
    pysarpro.io.load_sift
    pysarpro.io.load_surf
+   pysarpro.io.mrrat
    pysarpro.io.plugin_info
    pysarpro.io.plugin_order
    pysarpro.io.pop
    pysarpro.io.push
    pysarpro.io.reset_plugins
+   pysarpro.io.rrat
    pysarpro.io.show
+   pysarpro.io.srat
    pysarpro.io.use_plugin
 
    pysarpro.io.ImageCollection
@@ -35,6 +38,7 @@
    pysarpro.io.collection
    pysarpro.io.manage_plugins
    pysarpro.io.sift
+   pysarpro.io.ste
    pysarpro.io.util
 
 ------------
@@ -117,6 +121,13 @@
 ------------
 
 
+.. autofunction:: pysarpro.io.mrrat
+
+    .. minigallery:: pysarpro.io.mrrat
+
+------------
+
+
 .. autofunction:: pysarpro.io.plugin_info
 
     .. minigallery:: pysarpro.io.plugin_info
@@ -152,9 +163,23 @@
 ------------
 
 
+.. autofunction:: pysarpro.io.rrat
+
+    .. minigallery:: pysarpro.io.rrat
+
+------------
+
+
 .. autofunction:: pysarpro.io.show
 
     .. minigallery:: pysarpro.io.show
+
+------------
+
+
+.. autofunction:: pysarpro.io.srat
+
+    .. minigallery:: pysarpro.io.srat
 
 ------------
 
